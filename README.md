@@ -1,5 +1,3 @@
-## *jay*
-
 🎓 michigan technological university '27
 
 📎 [portfolio](https://JayHawkinsMTU.github.io)
